@@ -2,7 +2,11 @@
 
 ## About Me
 
-I am John Rafael Magayano, a passionate individual with a flair for coding and expertise in database management. I thrive on tackling complex problems and crafting elegant solutions. My journey in the tech world began when I enrolled in the BS Information Technology program.
+Hi! I’m John Rafael Magayano, a passionate developer who loves turning ideas into interactive and meaningful digital experiences. My journey in tech started when I pursued my BS Information Technology degree, where I discovered my enthusiasm for coding, design, and problem-solving.
+
+Currently, I’m working as a Front-End Developer (UI/UX) intern, focusing on creating visually engaging, user-friendly interfaces. I enjoy blending creativity and functionality — making designs not only look good but feel intuitive and seamless for users.
+
+When I’m not coding or designing, I like exploring new tools, learning emerging technologies, and finding better ways to improve user experiences.
 
 ## Education
 
@@ -27,11 +31,17 @@ I am John Rafael Magayano, a passionate individual with a flair for coding and e
 - Databases:
   - IBM DB2 Cloud
 
+- Design
+    UI/UX Design – Proficient in crafting user-centered interfaces, creating intuitive user experiences, and applying design principles that enhance usability and aesthetics.
+
 - Tools:
   - Lucidchart
   - Jaspersoft Studio
   - Eclipse
   - HTML
+  - Canva
+  - Photoshop
+  - Figma
 
 ## Reach Me
 - Email: Magayanojr@gmail.com
