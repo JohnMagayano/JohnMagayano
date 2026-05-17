@@ -21,6 +21,7 @@ When I’m not coding or designing, I like exploring new tools, learning emergin
 - [Oracle Cloud Infrastructure 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=58A10C3885E7ECB971E8A9425BCB806A0216D7979C200B0A0506F53296CA274A)
 - [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/7990187a4e60400ab7679f055ae1b738)
 - [NoSQL and DBaaS 101](https://courses.cognitiveclass.ai/certificates/7e314ebefba84b9198a447cde392442f)
+- [Coursera Google Technical Support Fundamentals] (https://www.coursera.org/account/accomplishments/verify/AT9BGZQKO4G7) 
 
 ## Skill Sets
 
