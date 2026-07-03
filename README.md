@@ -12,7 +12,7 @@ When I’m not coding or designing, I like exploring new tools, learning emergin
 
 - BS Information Technology
   - New Era University
-  - 2021-Present
+  - 2026
 
 ## Certification
 
